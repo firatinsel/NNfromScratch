@@ -1,2 +1,3 @@
 # NNfromScratch
-Classification using neural networks that created from scratch
+Classification using neural networks that created from scratch with numpy
+
